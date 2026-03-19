@@ -1,6 +1,7 @@
 # 🎁 Challenge: Amigo Secreto
 
 ![Status](https://img.shields.io/badge/STATUS-FINALIZADO-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 ## 📌 Descripción del proyecto
 
