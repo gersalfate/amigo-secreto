@@ -16,7 +16,7 @@ El proyecto pone en práctica pilares fundamentales del desarrollo web y la lóg
 * **Algoritmos de aleatoriedad:** Implementación de lógica matemática para seleccionar un ganador de forma imparcial.
 * **Sincronización con el DOM:** Renderizado automático de la lista de amigos y el resultado del sorteo en la interfaz HTML.
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Stack tecnológico
 
 * **JavaScript (ES6+)**
 * **HTML5**
